@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Hello world</title>
+<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+	</head>
+	<body>
+	
+<nav>
+<ul>
+	<li><a href=index.html>Homepage</a></li>
+	<li><a href="https://www.facebook.com/david.conceison">Facebook profile</a></li>
+	<li><a href="https://www.linkedin.com/in/david-conceison-6b351092/">LinkedIn profile</a></li>
+</ul>
+</nav>
+
+
+	Hello world!
+	David A. Conceison 
+	Construction Engineering Technology at UMaine
+	
+	[portrait]
+	<IMG SRC="portrait.jpg">
+	
+	Welcome to my web site! I'm from Scarborough, Maine and have 2 brothers who have also attended school here at UMaine. I have a passion for sports and enjoy spending time outdoors. Upon graduation in May, I hope to find full time work in the construction industry.
+	</body>
+</html>	 
+
+
+
+
+
+
+
+
